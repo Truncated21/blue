@@ -66,6 +66,13 @@
 
 /datum/species/teshari
 	autohiss_basic_map = list(
+			"İ" = list("È"),
+			"Á" = list("Ïô"),
+			"Û" = list("È"),
+			"É" = list("È"),
+			"Â" = list("Ô"),
+			"Ê" = list("Õ"),
+			"Ş" = list("Ó"),
 			"ı" = list("è"),
 			"û" = list("è"),
 			"é" = list("è"),
