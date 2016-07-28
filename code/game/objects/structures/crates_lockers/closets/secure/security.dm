@@ -328,7 +328,7 @@
 		else
 			icon_state = icon_opened
 
-/obj/structure/closet/secure_closet/detective/fortech
+/obj/structure/closet/secure_closet/fortech
 	name = "forensic technician's cabinet"
 	req_access = list(access_forensics_lockers)
 	icon_state = "cabinetdetective_locked"

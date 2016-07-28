@@ -595,7 +595,7 @@
 "alw" = (/obj/machinery/status_display{pixel_x = 0; pixel_y = -32},/obj/machinery/atmospherics/unary/vent_pump/on{dir = 1},/obj/structure/closet{name = "Evidence Closet"},/obj/item/weapon/storage/box/gloves,/obj/item/weapon/storage/box/evidence,/obj/item/weapon/storage/box/bodybags,/turf/simulated/floor/tiled/freezer,/area/security/detectives_office)
 "alx" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk{dir = 1},/turf/simulated/floor/tiled/freezer,/area/security/detectives_office)
 "aly" = (/obj/machinery/light,/obj/machinery/chem_master,/turf/simulated/floor/tiled/freezer,/area/security/detectives_office)
-"alz" = (/obj/machinery/camera/network/security{c_tag = "SEC - Forensic Office"; dir = 8},/obj/structure/closet/secure_closet/detective/fortech,/turf/simulated/floor/tiled/freezer,/area/security/detectives_office)
+"alz" = (/obj/machinery/camera/network/security{c_tag = "SEC - Forensic Office"; dir = 8},/obj/structure/closet/secure_closet/fortech,/turf/simulated/floor/tiled/freezer,/area/security/detectives_office)
 "alA" = (/obj/machinery/newscaster{pixel_x = 0; pixel_y = -28},/turf/simulated/floor,/area/maintenance/security_starboard)
 "alB" = (/obj/machinery/light,/turf/simulated/floor,/area/maintenance/security_starboard)
 "alC" = (/obj/machinery/alarm{dir = 1; pixel_y = -22},/turf/simulated/floor,/area/maintenance/security_starboard)
